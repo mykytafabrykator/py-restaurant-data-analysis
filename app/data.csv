@@ -1,4 +1,4 @@
-order_id,date_of_order,product_id,price,name,quantity
+order_id,date_of_order,product_id,price,name,restaurant_orderitem.quantity AS quantity
 1,2019-08-03 20:25:00,6,0.8,Plain Papadum,2
 1,2019-08-03 20:25:00,240,12.95,King Prawn Balti,1
 1,2019-08-03 20:25:00,19,2.95,Garlic Naan,1
